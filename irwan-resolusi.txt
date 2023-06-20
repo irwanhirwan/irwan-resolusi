@@ -3,6 +3,5 @@ irwan resolusi
  -install
  -office
 -belajar service komputer
- -komponen elektronik
  -hardware komputer
 -belajar coding
